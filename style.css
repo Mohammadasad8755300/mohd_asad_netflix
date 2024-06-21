@@ -3,11 +3,6 @@
     margin: 0;
 }
 
-@media only screen and (min-width: 200px) {
-    body {
-      background-color: lightblue;
-    }
-  }
 
 .netflix{
     height: 600px;
